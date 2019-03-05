@@ -1,0 +1,2 @@
+INSERT INTO USERS (username, first_name, last_name, email, mobile) VALUES ('timmy', 'John', 'Adeshola', 'timmy@cit.com.ng', '07030239942');
+INSERT INTO USERS (username, first_name, last_name, email, mobile) VALUES ('enny', 'Eniola', 'Adeshola', 'enny@cit.com.ng', '07030239943');
